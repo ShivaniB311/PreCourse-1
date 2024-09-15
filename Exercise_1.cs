@@ -1,3 +1,6 @@
+//Time complexity O(1)
+//Space Complexity O(n) where size of the stack
+
 using System;
 
 public class StackUsingArray
